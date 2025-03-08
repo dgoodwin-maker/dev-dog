@@ -1,6 +1,7 @@
 # dev-dog
 
 🦭Cumbie CIS 376 Web Dev Spring '25 Midterm Dev Exam
+Author: Barry Cumbie and Dylan Goodwin
 
 ### Resources
 
@@ -16,7 +17,7 @@
 3. do not delete the "TODO:🐶#" comments. You may add your own remarks, just make it clear to me they are yours, in a new comment with your initials or own emoji.
 4. Last 2 todo's:
 
-- TODO: 🐶19. Add in your authorship comments in THIS README document. (It's a joint authorship, right?). Include the date and that this is for your CIS 376 mid term exam, and don't forget to include at least ONE attribution to other code sources.
+- TODO: 🐶19. Add in your authorship comments in THIS README document. (It's a joint authorship, right?). Include the date and that this is for your CIS 376 mid term exam, and don't forget to include at least ONE attribution to other code sources. Done.
 - TODO: 🐶20. Add in an image with a screenshot of you with exactly 4782 points
 
 5. test it all locally and, when ready,
